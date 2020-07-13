@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Server>
+<Service name="Catalina">
+	<Connector port="8051"/>
+	<Connector port="8052"/>
+	<Connector port="8053"
+	compression = "on"
+	compressionMinSize="20"
+	noCompressionUserAgents="gozilla,traviata"
+	compressableMimeType="text/html,text/xml,text/javascript,application/javascript,text/css,text/plain,text/json"
+	/>
+	<Engine defaultHost="localhost">
+	<Host name="localhost">
+		<Context path="/b" docBase="H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b"/>
+		<Context path="/javaweb" docBase="H:/Java_source_space/javaweb/web" reloadable="true" />	
+	</Host>
+	</Engine>
+	</Service>
+</Server>

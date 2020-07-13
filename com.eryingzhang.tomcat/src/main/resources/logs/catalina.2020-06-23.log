@@ -1,0 +1,533 @@
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-6-23 10:58:02
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-6-23 10:58:02
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-6-23 10:58:02
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-6-23
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 11:21:08
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 11:24:02
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 11:25:39
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.eryingzhang.tomcat.BootStrap.main(BootStrap.java:29)
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 13:54:41
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 14:11:42
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Address already in use: JVM_Bind
+java.net.BindException: Address already in use: JVM_Bind
+	at java.net.DualStackPlainSocketImpl.bind0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketBind(DualStackPlainSocketImpl.java:106)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.PlainSocketImpl.bind(PlainSocketImpl.java:190)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:128)
+	at com.eryingzhang.tomcat.BootStrap.main(BootStrap.java:30)
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 14:19:07
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:09:03
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:17:25
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:18:45
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:36:40
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:40:20
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:40:42
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:40:48
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 15:43:09
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 8 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:29:13
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:30:01
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 3 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 2 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 2 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 3 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 3 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 3 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:30:52
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 2 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:35:10
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 2 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:35:18
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:35:25
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 2 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 16:36:54
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 20:01:23
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 20:02:18
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 20:03:16
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 2 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 8 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+Server version:		erYingZhang DiyTomcat/0.0.1
+Server built:		2020-06-23 20:14:44
+Server number:		0.0.1
+OS Name	:		Windows 10
+OS Version:		10.0
+Architecture:		x86
+Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+JVM Version:		1.8.0_151-b12
+JVM Vendor:		Oracle Corporation
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms

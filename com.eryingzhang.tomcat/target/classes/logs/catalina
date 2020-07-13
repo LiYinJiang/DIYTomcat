@@ -1,0 +1,1945 @@
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 87 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 5 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 24 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 6 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 09:30:55
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 09:30:55 上午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 58 ms
+07 13, 2020 09:36:20 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 88 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 2 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 22 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 7 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 09:37:24
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 09:37:24 上午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 54 ms
+07 13, 2020 09:38:00 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 09:43:20 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@6c0aec 检测到了Web应用下的重要文件变化 web.xml 
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@14c44d8 检测到了Web应用下的重要文件变化 web.xml 
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javawebweb] has started
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 10:18:01 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javawebweb] has completed
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@70374 检测到了Web应用下的重要文件变化 ClientJumpServlet.class 
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javawebweb] has started
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 5 ms
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javawebweb] has completed
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@758527 检测到了Web应用下的重要文件变化 ClientJumpServlet.class 
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:38 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@1798c19 检测到了Web应用下的重要文件变化 ClientJumpServlet.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@683570 检测到了Web应用下的重要文件变化 HeaderServlet.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@85a54e 检测到了Web应用下的重要文件变化 PfmFilter.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@457af4 检测到了Web应用下的重要文件变化 URLFilter.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@155b3ba 检测到了Web应用下的重要文件变化 GetCookieServlet.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 3 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@c29dc7 检测到了Web应用下的重要文件变化 HelloServlet.class 
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 1 ms
+07 13, 2020 11:21:39 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 92 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 28 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 11:22:21
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 11:22:21 上午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 54 ms
+07 13, 2020 11:22:27 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 11:23:49 上午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@883712 检测到了Web应用下的重要文件变化 ClientJumpServlet.class 
+07 13, 2020 11:23:49 上午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 11:23:59 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 11:28:42 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 11:30:22 上午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 80 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 11 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 12:55:05
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 12:55:05 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 52 ms
+07 13, 2020 12:55:08 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 12:57:48 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 12:59:07 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 85 ms
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 2 ms
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:07:42 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 81 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:08:06 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 86 ms
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:08:27 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 88 ms
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:09:09 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 205903 ms
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:12:35 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 83 ms
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:13:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 41982 ms
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:13:49 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 88 ms
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:19:55 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 2623 ms
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:19:57 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 82 ms
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:22:01 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4150 ms
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:22:05 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 2001 ms
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 13:22:07
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 13:22:07 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 60 ms
+07 13, 2020 13:22:21 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:23:52 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:25:39 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@1d227a8 检测到了Web应用下的重要文件变化 CookieServlet.class 
+07 13, 2020 13:25:39 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 13:25:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 13:25:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 5 ms
+07 13, 2020 13:25:39 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 13:25:47 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:27:15 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:28:15 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@27e2a3 检测到了Web应用下的重要文件变化 PfmFilter.class 
+07 13, 2020 13:28:15 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 83 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 32 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 13:30:19
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 13:30:19 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 53 ms
+07 13, 2020 13:30:24 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 82 ms
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:33:10 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 89 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 30 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 13:34:23
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 13:34:23 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 53 ms
+07 13, 2020 13:34:30 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:42)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 84 ms
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 13:35:38 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 6310 ms
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 13:35:45
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 13:35:45 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 58 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 99 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 1 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 30 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 14:10:54
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 14:10:54 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 54 ms
+07 13, 2020 14:10:57 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:12:58 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:27 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:29 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:29 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:29 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:29 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:35 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:35 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:19:51 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: Connection reset by peer: socket write error
+java.net.SocketException: Connection reset by peer: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:143)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.handle200(HttpProcessor.java:101)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:56)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 95 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 5 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 41 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 14:20:07
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 58 ms
+07 13, 2020 14:20:07 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:20:42 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: 
+java.lang.NullPointerException
+	at java.util.AbstractCollection.addAll(AbstractCollection.java:343)
+	at com.eryingzhang.tomcat.catalina.Context.getMatchedFilters(Context.java:342)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:49)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:22:55 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 87 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:23:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 27 ms
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 14:23:21
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 14:23:22 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 54 ms
+07 13, 2020 14:23:25 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:23:39 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:23:43 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:31)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 86 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 27 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 14:28:53
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 14:28:53 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 55 ms
+07 13, 2020 14:29:11 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:34)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 86 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 26 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 14:30:40
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 14:30:40 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 55 ms
+07 13, 2020 14:30:49 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:31:34 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:33:43 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:35:49 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:37:02 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:37:18 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:39:15 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@353c03 检测到了Web应用下的重要文件变化 URLFilter.class 
+07 13, 2020 14:39:15 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 14:39:15 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:39:15 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 4 ms
+07 13, 2020 14:39:15 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 14:39:46 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 14:43:15 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@dfc038 检测到了Web应用下的重要文件变化 URLFilter.class 
+07 13, 2020 14:43:15 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 14:43:15 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 14:43:15 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 9 ms
+07 13, 2020 14:43:15 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 14:43:23 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 95 ms
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 15:01:47 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0 has finished in 1 ms
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 20 ms
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 15:01:48
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 15:01:48 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 52 ms
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 112 ms
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 7 ms
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 15:02:39 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0 has finished in 15 ms
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 10 ms
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 15:02:40
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 15:02:40 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 49 ms
+07 13, 2020 15:02:48 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 79 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 1 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0 has finished in 16 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 0 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 15 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 15:30:45
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 0 ms
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 15:30:45 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 52 ms
+07 13, 2020 15:31:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5
+07 13, 2020 15:31:21 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5 has finished in 5 ms
+07 13, 2020 15:31:50 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 15:54:51 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory null
+07 13, 2020 15:54:51 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory null has finished in 80 ms
+07 13, 2020 15:58:59 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@59dd60 检测到了Web应用下的重要文件变化 web.xml 
+07 13, 2020 15:58:59 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 15:58:59 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 15:58:59 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 6 ms
+07 13, 2020 15:58:59 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 87 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 0 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 3 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0 has finished in 17 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5 has finished in 5 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 16 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 16:25:30
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 16:25:30 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 50 ms
+07 13, 2020 16:26:53 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+07 13, 2020 16:27:33 下午 com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher$1 dealWith
+INFO : com.eryingzhang.tomcat.watcher.ContextFileChangeWatcher@639a82 检测到了Web应用下的重要文件变化 web.xml 
+07 13, 2020 16:27:33 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has started
+07 13, 2020 16:27:33 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 16:27:33 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 6 ms
+07 13, 2020 16:27:33 下午 com.eryingzhang.tomcat.catalina.Host reload
+INFO : Reloading Context with name [/javaweb] has completed
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\a has finished in 81 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\b has finished in 1 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\c has finished in 0 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\j2ee has finished in 4 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb0 has finished in 16 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\javaweb5 has finished in 5 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:\Java_source_space\com.eryingzhang.tomcat\src\main\resources\webapps\ROOT has finished in 1 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/com.eryingzhang.tomcat/src/main/resources/webapps/b has finished in 0 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deploying web application directory H:/Java_source_space/javaweb/web
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Context deploy
+INFO : Deplyment of web applicton directory H:/Java_source_space/javaweb/web has finished in 16 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server version:		erYingZhang DiyTomcat/0.0.1
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server built:		2020-07-13 16:28:26
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Server number:		0.0.1
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Name	:		Windows 10
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : OS Version:		10.0
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Architecture:		x86
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : Java Home:		G:\eclipse-rcp-oxygen-3a-win32_2\eclipse_origin\jre
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_151-b12
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8051]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8052]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-8053]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Service init
+INFO : initialization processed in 1 ms
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8051]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8052]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-8053]
+07 13, 2020 16:28:26 下午 com.eryingzhang.tomcat.catalina.Server start
+INFO : Server startup in 47 ms
+07 13, 2020 16:28:30 下午 com.eryingzhang.tomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.RuntimeException: this is a deliberately created exception
+	at com.eryingzhang.tomcat.servlet.DefaultServlet.service(DefaultServlet.java:45)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at com.eryingzhang.tomcat.catalina.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:32)
+	at com.eryingzhang.tomcat.catalina.HttpProcessor.execute(HttpProcessor.java:51)
+	at com.eryingzhang.tomcat.catalina.Connector$1.run(Connector.java:89)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
